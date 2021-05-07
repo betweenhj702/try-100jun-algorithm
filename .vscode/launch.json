@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main2447",
+            "request": "launch",
+            "mainClass": "Main2447",
+            "projectName": "try-100jun-algorithm_ffe2b502"
+        },
+        {
+            "type": "java",
             "name": "Launch Main10870",
             "request": "launch",
             "mainClass": "Main10870",
