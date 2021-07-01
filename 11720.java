@@ -22,5 +22,7 @@ class Main
 			sum +=  line.charAt(i) -'0';	//0의 아스키코드를 빼주는 것
 		}
 		System.out.println(sum);
+		
+		// git bash test
 	}
 }
